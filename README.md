@@ -19,6 +19,8 @@ User Interface Snapshot/Demo
 --------------------------------------------------------------------------
 ![20241028](https://github.com/user-attachments/assets/305fa79d-73b9-4512-ab85-0cecc6153986)
 
+https://github.com/user-attachments/assets/9b55af20-2ab8-4419-9aa2-deab09094842
+
 A demo at repl.it (https://repl.it/@ChengTan/cgra-flow) shows some features of CGRA-Flow (the verilog generation and evaluation are not available due to *repl.it*'s limited support of python environment). To explore all the features, please setup CGRA-Flow locally or leverage the docker image.
 
 
@@ -119,6 +121,6 @@ OpenAI GPT (coming soon)
 ![](https://github.com/tancheng/CGRA-Flow/assets/6756658/07db560a-65aa-4bed-8f0a-f0b3c07df893)
 
 
-https://github.com/user-attachments/assets/9b55af20-2ab8-4419-9aa2-deab09094842
+
 
 
